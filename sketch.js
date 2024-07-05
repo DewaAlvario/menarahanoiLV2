@@ -16,8 +16,8 @@ function preload() {
 
 function setup() {
   createCanvas(500,400);
-  i1 = new Item(1, 0, 4);
-  i2 = new Item(1, 1, 3);
+  i1 = new Item(1, 0, 2);
+  i2 = new Item(1, 1, 1);
   /*i3 = new Item(1, 2, 2);
   i4 = new Item(1, 3, 1);*/
   print(stack1, stack2, stack3);
